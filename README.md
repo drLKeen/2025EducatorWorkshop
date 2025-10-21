@@ -9,7 +9,7 @@ For practice with MathWorks tools, including Live scripts, courseware, and MATLA
 2. Login to MATLAB Online if prompted  
    a. To access a MATLAB Online trial license, go to: [MathWorks License Center](https://www.mathworks.com/licensecenter/classroom/4962050/)
 
-4.	Double click `Overview.mlx`. Read the brief description of what each of the three worksheets covers and then click the hyperlink to that worksheet to open it. You do [b][u]not[/u][/b] have to start with Worksheet1!
+4.	Double click `Overview.mlx`. Read the brief description of what each of the three worksheets covers and then click the hyperlink to that worksheet to open it. You do **not** have to start with Worksheet1!
 
 4. Follow the instructions in each exercise on the worksheet. If you get stuck on a section, it is okay (and even encouraged) to ask for help or skip it until later.
 
