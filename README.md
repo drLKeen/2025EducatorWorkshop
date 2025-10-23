@@ -1,6 +1,5 @@
 # Practice Session Setup – 2025 Educator Workshop [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=drLKeen/2025EducatorWorkshop&file=https://github.com/drLKeen/2025EducatorWorkshop/)
 
-# Practice Session Setup – 2025 Educator Workshop
 For practice with MathWorks tools, including Live scripts, courseware, and MATLAB Copilot, access workshop materials by following the instructions below. The link in step 1 takes you to a Live script that opens in MATLAB Online. The Live script serves as a “worksheet” with practice exercises for exploring the contents we covered in today’s seminar.
 
 ## Access the Practice Session Worksheets:
